@@ -56,7 +56,7 @@ The Animation editor can be divided into 6 parts.
 
 ### The units of the timeline explained
 
-The representation of the specific frame time on the timeline is `01-05`. The value consists of two parts, the part in front of colon is the current number of seconds, followed by the current number of frames in the next second.
+The representation of the specific frame time on the timeline is `01-05`. The value consists of two parts, the first number is the current number of seconds, followed by the current number of frames in the next second.
 
 `01-05` indicates that the current frame is at the time past  1 second and 5 more frames from the beginning of the animation.
 
